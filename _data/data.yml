@@ -12,6 +12,7 @@ sidebar:
     avatar: G.Khachidze.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+    location: Chemnitz Germany
     email: giorgi.khachidze@mail.com
     phone: +4917647345870
     #website: blog.webjeda.com #do not add http://
