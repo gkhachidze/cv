@@ -147,16 +147,16 @@ skills:
         level: 80%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 88%
 
-      - name: Angular
-        level: 98%
+      - name: VUE
+        level: 65%
 
-      - name: HTML5 & CSS
+      - name: HTML5 & CSS(Bootstrap)
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Databases(MySQL/MS-SQL/T-SQL/)
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C#
+        level: 55%
