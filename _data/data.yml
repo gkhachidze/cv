@@ -71,6 +71,16 @@ experiences:
           - Work with LAMP development environment and version control GIT
           - Integrate data with WordPress
 
+    - role: Database Developer
+      time: 2013 - 2015
+      company: University of Georgia, Tbilisi (Georgia)
+      details: |
+
+          - Design, develop and implement database systems based on university requirements.
+          - Optimize database systems for performance efficiency and develop database tables and
+dictionaries.
+          - Identify any issues related to database performance and provide corrective measures.
+          - Perform data back-up and archival on regular basis.
 
     - role: Junior Web Developer
       time: 2012 - 2013
