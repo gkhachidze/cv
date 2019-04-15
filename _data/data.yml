@@ -143,26 +143,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: PHP(OOP) & Laravel
-        level: 80%
-
-      - name: Javascript & jQuery
-        level: 88%
-
-      - name: VUE
-        level: 65%
-
-      - name: HTML5 & CSS(Bootstrap)
+      - name: Python & Django
         level: 98%
 
-      - name: Databases(MySQL/MS-SQL/T-SQL/)
-        level: 85%
-        
-      - name: C#
-        level: 55%
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: XML
-        level: 75%
-        
-      - name: GIT
-      level: 75%
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
