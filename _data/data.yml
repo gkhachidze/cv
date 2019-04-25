@@ -66,21 +66,21 @@ experiences:
       company: GBTIMES, Tbilisi (Georgien)
       details: |
       
-          - Arbeiten Sie täglich mit PHP, MySQL, JavaScript, JQuery und mit dem Laravel Framework
-          - Bauen Sie Laravel Websites
-          - Schreiben Sie sauber-strukturierten und gut dokumentierten Code
-          - Arbeiten Sie mit der LAMP Entwicklungsumgebung und mit der Versionskontroll GIT
-          - Integrieren Sie Daten mit WordPress
+          - Arbeiten Sie täglich mit PHP, MySQL, JavaScript, JQuery und mit dem Laravel Framework.
+          - Bauen Sie Laravel Websites.
+          - Schreiben Sie sauber-strukturierten und gut dokumentierten Code.
+          - Arbeiten Sie mit der LAMP Entwicklungsumgebung und mit der Versionskontroll GIT.
+          - Integrieren Sie Daten mit WordPress.
 
-    - role: Database Developer
+    - role: Datenbanken Entwickler
       time: 2013 - 2015
-      company: University of Georgia, Tbilisi (Georgia)
+      company: University of Georgia, Tbilisi (Georgien)
       details: |
 
-          - Design, develop and implement database systems based on university requirements.
-          - Optimize database systems for performance efficiency and develop database tables and dictionaries.
-          - Identify any issues related to database performance and provide corrective measures.
-          - Perform data back-up and archival on regular basis.
+          - Entwerfen, Entwickeln und Implementieren von Datenbanksystemen basierend auf den Anforderungen der Universität.
+          - Optimieren Sie die Datenbanksysteme auf Leistungseffizienz und entwickeln Sie Datenbanktabellen und andere Datenbankobjekte.
+          - Identifizieren Sie alle Probleme im Zusammenhang mit der Datenbankleistung und stellen Sie Korrekturmaßnahmen bereit.
+          - Führen Sie regelmäßig eine Datensicherung und Archivierung durch.
 
     - role: Junior Web Developer
       time: 2012 - 2013
