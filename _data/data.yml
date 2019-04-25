@@ -61,16 +61,16 @@ education:
           - Bachelor Bachelor Studium der Informatik
 
 experiences:
-    - role: Web Developer
+    - role: Web Entwickler
       time: 2015 - 2016
-      company: GBTIMES, Tbilisi (Georgia)
+      company: GBTIMES, Tbilisi (Georgien)
       details: |
       
-          - Work daily in PHP, MySQL, JavaScript, JQuery and with the Laravel Framework
-          - Build Laravel websites
-          - Write clean structured and well-documented code
-          - Work with LAMP development environment and version control GIT
-          - Integrate data with WordPress
+          - Arbeiten Sie täglich mit PHP, MySQL, JavaScript, JQuery und mit dem Laravel Framework
+          - Bauen Sie Laravel Websites
+          - Schreiben Sie sauber-strukturierten und gut dokumentierten Code
+          - Arbeiten Sie mit der LAMP Entwicklungsumgebung und mit der Versionskontroll GIT
+          - Integrieren Sie Daten mit WordPress
 
     - role: Database Developer
       time: 2013 - 2015
