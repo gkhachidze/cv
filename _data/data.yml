@@ -47,18 +47,18 @@ sidebar:
 
 
 education:
-    - degree: MSc in Web Engineering
-      university: Technical university of Chemnitz
-      time: 2016 - present
+    - degree: Master in Web Engineering
+      university: Technische Universität Chemnitz
+      time: 2016 - laufend
 
-    - degree: BSc in Informatics
+    - degree: Bachelor in Informatik
       university: University of Georgia
       time: 2010 - 2014
       details: |
 
-          - University of Georgia, Tbilisi (Georgia)
+          - University of Georgia, Tbilisi (Georgien)
           - Information Technologies, Engineering and Mathematics
-          - Bachelor study of Informatics
+          - Bachelor Bachelor Studium der Informatik
 
 experiences:
     - role: Web Developer
