@@ -84,12 +84,12 @@ experiences:
 
     - role: Junior Web Developer
       time: 2012 - 2013
-      company: Tbilisi teaching university "Gorgasali", Tbilisi (Georgia)
+      company: Tbilisi teaching university "Gorgasali", Tbilisi (Georgien)
       details: |
 
-          - Website developing using (html, css, javascript(jquery), php/mysql).
-          - Code new pages, files, test, debug and deploy.
-          - Test hole site on the security issues.
+          - Website-Entwicklung mit (HTML, CSS, Javascript (Jquery), PHP / MySQL).
+          - Code für neue Seiten, Dateien, Testen, Debuggen und Bereitstellen.
+          - Teststelle vor Ort zu den Sicherheitsproblemen.
 
 projects:
     title: Projects
@@ -140,7 +140,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Fähigkeiten &amp; Tüchtigkeit
 
     toolset:
       - name: PHP(OOP) & Laravel
