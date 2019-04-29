@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     location: Chemnitz, Deutschland
     email: giorgi.khachidze@mail.com
-    phone: +4917647345870
+    phone: 0176 47345870
     #website: blog.webjeda.com #do not add http://
     linkedin: giorgi-khachidze
     github: gkhachidze
@@ -30,10 +30,10 @@ sidebar:
         level: Muttersprache
 
       - idiom: Englisch
-        level: fließend
+        level: sehr gut
 
       - idiom: Deutsch
-        level: mittlere
+        level: gut, B1
 
     interests:
       - item: Fußball
@@ -52,13 +52,9 @@ education:
       time: 2016 - laufend
 
     - degree: Bachelor in Informatik
-      university: University of Georgia
+      university: University of Georgia , Tbilisi (Georgien)
       time: 2010 - 2014
-      details: |
 
-          - University of Georgia, Tbilisi (Georgien)
-          - Information Technologies, Engineering and Mathematics
-          - Bachelor Bachelor Studium der Informatik
 
 experiences:
     - role: Web Entwickler
@@ -66,11 +62,11 @@ experiences:
       company: GBTIMES, Tbilisi (Georgien)
       details: |
       
-          - Arbeiten Sie täglich mit PHP, MySQL, JavaScript, JQuery und mit dem Laravel Framework.
-          - Bauen Sie Laravel Websites.
-          - Schreiben Sie sauber-strukturierten und gut dokumentierten Code.
-          - Arbeiten Sie mit der LAMP Entwicklungsumgebung und mit der Versionskontroll GIT.
-          - Integrieren Sie Daten mit WordPress.
+          - Arbeit täglich mit PHP, MySQL, JavaScript, JQuery und mit dem Laravel Framework.
+          - Entwickeln von Laravel Websites.
+          - Schreib von sauber-strukturierten und gut dokumentierten Code.
+          - Arbeit mit LAMP Entwicklungsumgebung und mit Versionskontroll GIT.
+          - Entwickeln von WordPress Websites.
 
     - role: Datenbanken Entwickler
       time: 2013 - 2015
@@ -79,8 +75,8 @@ experiences:
 
           - Entwerfen, Entwickeln und Implementieren von Datenbanksystemen basierend auf den Anforderungen der Universität.
           - Optimieren Sie die Datenbanksysteme auf Leistungseffizienz und entwickeln Sie Datenbanktabellen und andere Datenbankobjekte.
-          - Identifizieren Sie alle Probleme im Zusammenhang mit der Datenbankleistung und stellen Sie Korrekturmaßnahmen bereit.
-          - Führen Sie regelmäßig eine Datensicherung und Archivierung durch.
+          - Identifikation aller Probleme im Zusammenhang mit der Datenbank Leistung und erstellen der Entsprechend Korrekturmaßnahmen.
+          - Durchführung regelmäßige Datensicherung und Archivierung.
 
     - role: Junior Web Entwickler
       time: 2012 - 2013
@@ -140,7 +136,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Fähigkeiten &amp; Tüchtigkeit
+    title: Kenntnisse
 
     toolset:
       - name: PHP(OOP) & Laravel
